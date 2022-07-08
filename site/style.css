@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(223, 14%, 25%);
+    color: aliceblue;
+    margin: 200px;
+    margin-top: 50px;
+    list-style: square;
+    font-size: 16pt;
+}
+
+
+.img img{
+    height: 30vh;
+    width: 27vw;
+    padding: 20px;
+}
+
+Ul{
+    list-style: none;
+}
+
+Ul li {
+    background-color: hsl(223, 25%, 36%);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+Ul li h3{
+    text-decoration-line: underline;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+Ul li span{
+    font-size: 11pt;
+}
+
